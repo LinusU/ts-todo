@@ -1,0 +1,17 @@
+{
+  "name": "ts-todo",
+  "version": "0.0.0",
+  "keywords": [
+    "bottom type",
+    "fixme",
+    "todo",
+    "typescript",
+    "unimplemented",
+    "unreachable"
+  ],
+  "repository": "LinusU/ts-todo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  }
+}
