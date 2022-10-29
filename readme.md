@@ -23,7 +23,7 @@ npm install --save ts-todo
 ## Usage
 
 ```typescript
-import todo = require('ts-todo')
+import todo from 'ts-todo'
 
 // Here's an example of some in-progress code. We have a interface Foo:
 interface Foo {

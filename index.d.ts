@@ -1,2 +1,1 @@
-declare function todo (): never
-export = todo
+export default function todo (): never
