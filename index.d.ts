@@ -1,1 +1,4 @@
-export default function todo (): never
+function todo (): never
+function todo (message: string): never
+
+export default todo
